@@ -48,6 +48,13 @@
 *.srt linguist-detectable=true
 *.srt linguist-documentation=false
 *.srt linguist-language=SubRip-Text
+# GraphQL source file
+*.graphql linguist-detectable=true
+*.graphql linguist-documentation=false
+*.graphql linguist-language=GraphQL
+*.gql linguist-detectable=true
+*.gql linguist-documentation=false
+*.gql linguist-language=GraphQL
 # YAML (YAML Ain't Markup Language) document
 # Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
 *.yml linguist-detectable=false
@@ -164,7 +171,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Tuesday, September 13th at 2:00 pm PST)
+# Line count (including blank lines and compiler line): 178
 # End of script
